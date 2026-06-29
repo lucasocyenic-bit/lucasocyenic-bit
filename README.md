@@ -1,8 +1,8 @@
 <![CDATA[<div align="center">
 
-# Hey, I'm Lucas 👋
+ Hey, I'm Lucas 👋
 
-**Frontend Developer** · Crafting immersive web experiences
+  *Frontend Developer* · Crafting immersive web experiences
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -11,18 +11,18 @@
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-I build **visually rich, interactive websites** with a focus on smooth animations, modern aesthetics, and great user experience. I love pushing the boundaries of what the browser can do.
+I build *visually rich, interactive websites* with a focus on smooth animations, modern aesthetics, and great user experience. I love pushing the boundaries of what the browser can do.
 
-- 🎨 Passionate about **creative UI/UX** and motion design
-- ⚡ Fan of **GSAP**, **Three.js**, and **Lenis** for silky smooth experiences
-- 🌐 Building immersive frontends with **glassmorphism** and modern design systems
+- 🎨 Passionate about *creative UI/UX* and motion design
+- ⚡ Fan of *GSAP*, *Three.js*, and *Lenis* for silky smooth experiences
+- 🌐 Building immersive frontends with *glassmorphism* and modern design systems
 - 🌱 Always learning and experimenting with new web technologies
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ I build **visually rich, interactive websites** with a focus on smooth animation
 
 ---
 
-### 🌟 Featured Projects
+# 🌟 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -40,7 +40,7 @@ I build **visually rich, interactive websites** with a focus on smooth animation
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
