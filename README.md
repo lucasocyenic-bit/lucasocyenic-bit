@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasocyenic-bit.github.io/discover-greece/)
 [![Available for Freelance](https://img.shields.io/badge/Available-Freelance%20Work-brightgreen?style=for-the-badge)](#-lets-work-together)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasocyenic@gmail.com)
 
 </div>
 
@@ -48,7 +49,9 @@ I take on freelance projects including:
 
 # 💼 Let's Work Together
 
-Open to freelance projects — landing pages, portfolio sites, interactive dashboards, and animation-heavy builds. Reach out via [add your email or LinkedIn here].
+Open to freelance projects — landing pages, portfolio sites, interactive dashboards, and animation-heavy builds.
+
+📧 Reach me at **lucasocyenic@gmail.com**
 
 ---
 
