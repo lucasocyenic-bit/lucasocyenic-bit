@@ -1,11 +1,11 @@
-<![CDATA[<div align="center">
+<div align="center">
 
- Hey, I'm Lucas 👋
+# Hey, I'm Lucas 👋
 
   *Frontend Developer* · Crafting immersive web experiences
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucasocyenic-bit.github.io/discover-greece/)
+[![Available for Freelance](https://img.shields.io/badge/Available-Freelance%20Work-brightgreen?style=for-the-badge)](#-lets-work-together)
 
 </div>
 
@@ -13,12 +13,16 @@
 
 # 🚀 About Me
 
-I build *visually rich, interactive websites* with a focus on smooth animations, modern aesthetics, and great user experience. I love pushing the boundaries of what the browser can do.
+I build *visually rich, interactive websites* with a focus on smooth animations, modern aesthetics, and great user experience — no frameworks, no build tools, just vanilla HTML/CSS/JS pushed to its limits.
 
-- 🎨 Passionate about *creative UI/UX* and motion design
+I take on freelance projects including:
+- 🎨 Landing pages & marketing sites with motion design
+- 🌐 Portfolio & personal brand sites
+- 📊 Interactive dashboards & data visualizations
+- 🛍️ Product/e-commerce page builds
+
 - ⚡ Fan of *GSAP*, *Three.js*, and *Lenis* for silky smooth experiences
-- 🌐 Building immersive frontends with *glassmorphism* and modern design systems
-- 🌱 Always learning and experimenting with new web technologies
+- 🌱 Currently studying AI/ML alongside frontend work
 
 ---
 
@@ -36,7 +40,15 @@ I build *visually rich, interactive websites* with a focus on smooth animations,
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🏛️ Discover Greece](#) | Luxury travel website with particle effects, GSAP animations & interactive planner | HTML · CSS · JS · GSAP · Three.js · Lenis |
+| [🏛️ Discover Greece](https://lucasocyenic-bit.github.io/discover-greece/) | Luxury travel website with particle effects, GSAP animations & interactive planner | HTML · CSS · JS · GSAP · Three.js · Lenis |
+
+*More projects coming soon — actively building out a dashboard, e-commerce, and landing page showcase.*
+
+---
+
+# 💼 Let's Work Together
+
+Open to freelance projects — landing pages, portfolio sites, interactive dashboards, and animation-heavy builds. Reach out via [add your email or LinkedIn here].
 
 ---
 
@@ -57,4 +69,3 @@ I build *visually rich, interactive websites* with a focus on smooth animations,
 *"Design is not just what it looks like — design is how it works."*
 
 </div>
-]]>
